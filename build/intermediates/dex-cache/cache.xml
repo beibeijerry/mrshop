@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_011db854ad3675924ade1a2de857c966a8e1d7c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/android_client/PushSDK/unspecified/jars/libs/utdid4all-1.1.5_proguard.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a96e7800ffe107ef0fd262f8025eea5e661377ea">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/8/utdid4all-1.1.5_proguard_8b1f5c8bda908e6d0733f666c6dfa523bd837253/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/net.qiujuer.genius/blur/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="81ad9eb3ac36c469ccaa5db6a162cfdbf1da36d2">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/net.qiujuer.genius-blur-2.0.0_1502144df6aed9fcbe3a2f41496fcf545efd8ff6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="33d1267d4756464ec9379f5a8faafbe612a20f0b">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f5d109d3e9739483a85932f765339208cf098a19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/a2a55a3375bc1cef830ca426d68d2ea22961190e/jackson-annotations-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.5.0_44a391ebaf5dab8e2a636bed38bc32d1970b0d99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_bb196cb9fa9e852c2fdb4918b1f183652637e75b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.7.2_06da3095fdd2dd7c3acc7de15da98f3245060869/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-core/1.3.1/3807f8d70802e9bee03617bc9d0b1a0bbbdab656/couchbase-lite-java-core-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3807f8d70802e9bee03617bc9d0b1a0bbbdab656">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/couchbase-lite-java-core-1.3.1_bd9598cbe570aba187b959f2ffcf731d2d31b0c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.tencent.bugly/crashreport_upgrade/1.1.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="edd6e409711d9690816d776bdbc5b0ec5ace9eda">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.tencent.bugly-crashreport_upgrade-1.1.7_2538b456fea61b90b658db186ce240337b7b621f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_71c99955931ea77083ab4c87593c777869c1e12d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.0.1_152a4dbd3332559d68af1d448e639568233e41f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/io.swagger/swagger-annotations/1.5.0/f7497f7887e65277c0dab1da1148cf211083f3d4/swagger-annotations-1.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f7497f7887e65277c0dab1da1148cf211083f3d4">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/swagger-annotations-1.5.0_4fab02f0108ee66a2f4401135300b985ee3ab59f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/b31526a230871fbe285fbcbe2813f9c0839ae9b0/httpcore-4.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b31526a230871fbe285fbcbe2813f9c0839ae9b0">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpcore-4.4.4_f3de16363aa408af909f803fa5e96163acdb896b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.github.JakeWharton/ViewPagerIndicator/2.4.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="14889e022db94047ceadff1cf5e7984139a4eb8e">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.JakeWharton-ViewPagerIndicator-2.4.1_d4c47d60e9668f0f86342cf548d83c89f0553c64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_eb849e3ffa6ff05d677e54cc813a0a7dea85fbc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/1.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2ce3006140ca3087f08a9f0ba1211255253474c5">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.couchbase.lite-couchbase-lite-android-1.3.1_ce1bb92eaef6cd917c3f3be375ae18c6c120e037/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_a2befd596ef17da127f1d09993f7e17dca50495b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/android_client/PushSDK/unspecified/jars/libs/com.umeng.message_v3.0.1-beta.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e509f9a073b4fe8242b1dec7eaa74bc4ed83a121">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/8/com.umeng.message_v3.0.1-beta_2439db77f430d4b9bebda1ca3ea342e647b9c26a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android-sqlite-custom/1.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c82bc8adb671652b83ea2d785d0847435e4f3442">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.couchbase.lite-couchbase-lite-android-sqlite-custom-1.3.1_94e9fe27f0d2c11e78facca0122eba65f25633b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_b97878703f3de9419a175cfe7567c62cb100c816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.github.orhanobut/logger/1.12/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecb9f39f775f414b18c7c61b4f71345f2ae8f738">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.orhanobut-logger-1.12_2eb2acff96312fe1c0122de4d0e9ca300f90652e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.github.oxo42/stateless4j/2.4.0/128aca4ace585f0b42faa739d0b968a154debb7a/stateless4j-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="128aca4ace585f0b42faa739d0b968a154debb7a">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/stateless4j-2.4.0_ff312eb33e77fab579c677749727e10b9cafa634/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/homhomlin.lib/sldinglayout/0.9.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f1d31d4efd059352ebe46a3266954a59f41db52a">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/homhomlin.lib-sldinglayout-0.9.0_25c1494c6f16da8e987dd8dd003495861826b8a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_5cd5127ae5be21313c83e1397f1649d97e48a423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_64d3bdd196ff21476ff69e7152ddeafe1d1a6b95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.2/22b4c53dd9b6761024258de8f9240c3dce6ea368/httpmime-4.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="22b4c53dd9b6761024258de8f9240c3dce6ea368">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpmime-4.5.2_3eeeb2ae169d2200fc9d2b64ffcbea2574897958/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/libs/libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/libammsdk_542553f06c9017660ac56e2b647e6fea5c4bf058/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_764fd2b65e80f717bb23ab32e0e5ebe9f6f963a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="971a45428578c62b7bd723f193cfb37b9c26d47a">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cdc92d0fba9278f7e5c1cd162a518ccfe9056ba2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/sharesdk/libs/MobCommons-2016.0426.1819.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5fce3a96cadb15dd2980863f403d7d1ab8732989">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobCommons-2016.0426.1819_6f80f55ccf8826f12bb82f5c8a5c4568536a679e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.4/dd9eeb557650c4ad7394df23f0f5cf27a7cfc697/universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.4_26ae449d8750c69cf901c12493d1caf25324b366/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.makeramen-roundedimageview-2.2.1_fe9c84225d76702624508133ce9180b9774eed96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.getbase-floatingactionbutton-1.10.1_f8b0de88e166a4edf9213f0fdc93c2d3b55acb47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/sharesdk/libs/ShareSDK-Wechat-Core-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d2e75c7f5b644b69198a6c89deffab067fa5e88">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Core-2.7.2_b6b143a2bfd1d3336f10bfa3ea589b136c29f952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/info.hoang8f/android-segmented/1.0.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="692a913dff3246e0cc5369c2508f5970ecfeca01">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/info.hoang8f-android-segmented-1.0.6_d5717d1b2cd6ad5a18574e9c2cf356cdb875bceb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_bbd5312f6bf3422e61a4fbc00dcaecb8ac471922/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.qiniu/qiniu-android-sdk/7.1.3/3bdaf96bf5474e7b097ccb9c8cc736f4046dac6e/qiniu-android-sdk-7.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3bdaf96bf5474e7b097ccb9c8cc736f4046dac6e">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/qiniu-android-sdk-7.1.3_d402d4ab44f0d18da67ca198ca12f45fc692bf9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.baoyz.swipemenulistview/library/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ec8378e8d7aa3104f60823e6350f2728d3609ba">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.baoyz.swipemenulistview-library-1.3.0_d12c734cb2cdaf9acb7ace8b707b2f664b78d17b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/sharesdk/libs/ShareSDK-Wechat-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6d87b1916e872678665a0d06c873c7712ed91457">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-2.7.2_49612ecff56a0e36f0eaf45232563265b51dc982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/sharesdk/libs/ShareSDK-SinaWeibo-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7d038932c1902316f542e2ca7b7d73c16265185a">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-SinaWeibo-2.7.2_fd55b8bb5a95539748a085d40b7b9de0aecb257e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.bigkoo/svprogresshud/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="45cca9f5fd0386ff5f7a51fcfc8e2c42df4798e4">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.bigkoo-svprogresshud-1.0.2_f3042b678470ff45d55fccea4dc6fda5c4185b85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/sharesdk/libs/ShareSDK-Core-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="484d87cb8abd3c6d05eeca5abfac1cdd1aa1dc2e">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Core-2.7.2_530c62676661c2a6b02ad9f5bd1ea70cf8b849dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/sharesdk/libs/ShareSDK-Wechat-Favorite-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d195548d5cba02c925eb418118ac129322e209dd">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Favorite-2.7.2_643074236e7e809e2c94e99032bf2e61c7ccb05a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/sharesdk/libs/MobTools-2016.0426.1819.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e2c5ab92b762c42cd30e6787cc401ae01e002512">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobTools-2016.0426.1819_813fe25acb9529d6d616c09b0ed28a3ff1e2463d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_c3f2818427aebedff273c1d2d1cdd411939ef2f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.0/489b7552dd3322b63f694122d16ce62c21c303b5/jackson-databind-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="489b7552dd3322b63f694122d16ce62c21c303b5">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.5.0_5fa522abd5ab44cfa99ea9567b0cae1075d60e5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.orhanobut/dialogplus/1.11/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="184f86117c6463267c1f0deba84d4853cb165c40">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.orhanobut-dialogplus-1.11_a8a0c52bbbca74612d2cb765297972cfd34c4c57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.5.0/b2ece1bd57ac7b4c315b7505b65ac79cb1da4270/jackson-core-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b2ece1bd57ac7b4c315b7505b65ac79cb1da4270">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.5.0_d6d9a56530e89b9e69a1231684da0196c31a3e81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/sharesdk/libs/ShareSDK-QZone-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ab780cc4d045859b20a2177b7045e6ac6ec44be3">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-QZone-2.7.2_25d480e4db3633d580e594795d2867151cbbe722/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/sharesdk/libs/ShareSDK-Wechat-Moments-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e77e9127a0d9dadf0cf4963f14a6449a4e1dbe37">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Moments-2.7.2_b7e13db9357053d25ad189a56d7f571ebf702219/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.8.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c74f0952cfb481882d8cedf4ca9f3c60289a3301">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.finalteam-galleryfinal-1.4.8.7_9197c510f22e569ccaa4491fa6a12a363f8abcac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/cn.finalteam/toolsfinal/1.1.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="966da5b6a8bfdef0bfc660e349f8765dde5cb6f3">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.finalteam-toolsfinal-1.1.5_3235b5de999b38b433f8dc9dcfce9584bbab9d3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/sharesdk/libs/ShareSDK-QQ-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c3717539454ca4b61bf8323a6f307c248a1bd0ef">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-QQ-2.7.2_be7564853221d3006bddc185b01cbad4e30aefb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.11/54bfdf73e7aabeed79c974f0956f037898bfa2c5/fastjson-1.2.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="54bfdf73e7aabeed79c974f0956f037898bfa2c5">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.2.11_1cfd44bb319162e259b1534c37c81bfff8b0fc5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/sharesdk/libs/ShareSDK-ShortMessage-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ab3c5ecdf37204d0466bdb15668753362618f861">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-ShortMessage-2.7.2_489e41c4df0a7853f8ee85e70f5cb9cf435e2d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/sharesdk/libs/ShareSDK-Email-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0372364f0f21bcba6f5113d2ecd14f286ae21a2c">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Email-2.7.2_ab8e2b8c1dd5d75b2e9268f59e37b4b9991f6c43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/libs/AutoUpdate_SDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e97131f5a9d845c3852a2b5901cfd054f4d232e2">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/2/AutoUpdate_SDK_2f2df8deec8104ca847ed78a0f8c478446242e8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/Desktop/project/android_client/app/build/intermediates/exploded-aar/com.oguzdev/CircularFloatingActionMenu/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.oguzdev-CircularFloatingActionMenu-1.0.2_525a3c21a74c3402fba8740360c6e04179d3d759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_b9f1afef92898932944c1a31ac873023eacbd5ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_08d18324e3e35e924082bb0c084e514cd73bf7de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muran001/.gradle/caches/modules-2/files-2.1/com.qiniu/happy-dns/0.2.5/c0ee8266504682a0e500d95d849a5af94a718df1/happy-dns-0.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c0ee8266504682a0e500d95d849a5af94a718df1">
+        <dex dex="/Users/muran001/Desktop/project/android_client/app/build/intermediates/transforms/dex/debug/folders/1000/10/happy-dns-0.2.5_f8c673c3c308c05a5a1e41cf3f737b1a459aa1fc/classes.dex" />
+    </item>
+
+</items>

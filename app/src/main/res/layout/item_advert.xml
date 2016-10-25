@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:background="@drawable/shape_stroke_themecolor"
+    >
+
+    <include
+        android:id="@+id/adType0"
+        layout="@layout/view_ad_type0_0_dis" />
+
+    <include
+        android:id="@+id/adType1"
+        layout="@layout/view_ad_type0_1_dis" />
+
+    <LinearLayout
+        android:id="@+id/adAccount"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/adAccountName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="个人广告" />
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btn"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:background="@drawable/selector_general_btn"
+            android:text="添加"
+            android:textColor="@android:color/white" />
+
+    </LinearLayout>
+
+</FrameLayout>

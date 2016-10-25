@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.muran.mrshop.ui.more.rp.RpCheckInActivity">
+
+    <ImageView
+        android:id="@+id/img_btn_ad"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="centerCrop" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:elevation="3dp"
+        android:background="@drawable/btn_maincolor_bg_cor"
+        android:layout_alignParentBottom="true">
+        <Button
+            android:id="@+id/btn_check_in"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center|center_vertical"
+            android:background="@drawable/btn_maincolor_bg_cor"
+            android:gravity="center"
+            android:text="签到"
+            android:textColor="@android:color/white" />
+    </FrameLayout>
+</RelativeLayout>

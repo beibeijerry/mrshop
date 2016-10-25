@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shape_stroke_themecolor"
+    android:padding="2dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="未设置" />
+
+    <com.makeramen.roundedimageview.RoundedImageView
+        android:id="@+id/imageSettingImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"
+        app:riv_border_color="@color/linebacColor"
+        app:riv_border_width="1dip"
+        app:riv_corner_radius="2dp"
+        app:riv_mutate_background="true"
+        app:riv_oval="false"
+        app:riv_tile_mode="repeat" />
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_margin="1dp"
+        android:gravity="center_horizontal">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitCenter"
+            app:riv_border_width="0dip"
+            app:riv_corner_radius_bottom_left="2dp"
+            app:riv_corner_radius_bottom_right="2dp"
+            app:riv_corner_radius_top_left="0dp"
+            app:riv_corner_radius_top_right="0dp"
+            app:riv_mutate_background="true"
+            app:riv_oval="false"
+            app:riv_tile_mode="repeat"
+            android:background="@color/transparent_middle"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="1dp"
+            android:text="点击更改"
+            android:textColor="@color/themeColor"
+            android:textSize="12sp" />
+
+    </FrameLayout>
+
+
+    <Button
+        android:id="@+id/imageSettingBtn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent" />
+
+
+</FrameLayout>

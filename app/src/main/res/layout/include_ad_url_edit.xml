@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/linkTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="链接：  "
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/urlEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="请输入点击后链接地址"
+        android:minWidth="120dp"
+        android:textSize="12sp"
+        android:layout_weight="1"
+        />
+
+    <Button
+        android:id="@+id/urlSwitchTypeBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/shape_rec_corner_themecolor"
+        android:text="更换类型"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

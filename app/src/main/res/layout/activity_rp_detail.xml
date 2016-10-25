@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+   <include layout="@layout/include_title_bar"></include>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/rps_icon"
+            android:layout_centerHorizontal="true"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:id="@+id/tv_rp_level"
+            android:gravity="center"
+            android:text="特权红包仅限5级以上会员"
+            android:textSize="12sp"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_height="30dp"
+            android:padding="0dp"
+            android:id="@+id/btn_add_level"
+            android:background="@drawable/btn_red_bg_cor"
+            android:textColor="@android:color/white"
+            android:visibility="gone"
+            android:text="立即升级"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:id="@+id/tv_rp_count"
+            android:gravity="center"
+            android:text="2个红包共300元"
+            android:textSize="16sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:id="@+id/tv_rp_gone_count"
+            android:gravity="left"
+            android:layout_marginLeft="10dp"
+            android:text=""
+            android:textSize="16sp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/linebacColor" />
+
+
+            <ListView
+                android:id="@+id/rpDetaillistView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/rp_bg"
+                android:scrollbars="vertical"
+                android:smoothScrollbar="false">
+            </ListView>
+
+    </LinearLayout>
+</LinearLayout>

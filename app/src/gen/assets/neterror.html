@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+    <script type="text/javascript">
+
+function getHref(){
+var obj=document.getElementById('btnA')
+var url=location.href;
+var regex = /.*failUrl=(.*)/;
+var ret = regex.exec(url);
+	var failurl=ret[1];
+	obj.href="btn:refresh"+failurl;
+	obj.click();
+
+}
+
+
+
+    </script>
+
+</head>
+
+
+<body>
+<div style="text-align:center;margin-top:150px">
+    <img src="networkerror.png" style="width:67px;height:113px;">
+</div>
+<div style="text-align:center;margin-top:20px">
+    <a style="line-height:35px;" href="" id="btnA"></a>
+    <input type="button"  style="line-height:35px;background-color:#2798f3;color: rgb(255, 255, 255);border: 0px none;" onclick="getHref()" value="轻点刷新"/>
+</div>
+</body>
+</html>

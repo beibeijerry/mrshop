@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="35dp"
+    android:minHeight="35dp"
+    android:background="@android:color/transparent"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textColor="@color/rp_shake_list_item_text"
+        android:id="@+id/tv_shake_user"
+        android:text="无痕wwwwwwwwwwwww" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:id="@+id/tv_shake_user_grade"
+        android:textColor="@color/rp_shake_list_item_text"
+        android:text="3星会员" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:id="@+id/tv_shake_time"
+        android:textColor="@color/rp_shake_list_item_text"
+        android:text="11:04" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textColor="@color/rp_shake_list_item_text"
+        android:id="@+id/tv_shake_number"
+        android:text="摇到34元" />
+</LinearLayout>

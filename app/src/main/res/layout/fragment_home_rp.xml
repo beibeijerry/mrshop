@@ -1,0 +1,102 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/themeColor"
+        android:orientation="horizontal">
+        <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="摇一摇"-->
+        <!--android:background="@android:color/transparent"-->
+        <!--android:textColor="@android:color/white"-->
+        <!--android:layout_weight="1"-->
+        <!--android:id="@+id/btnShake"/>-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="8"
+            android:text="特权红包"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+        <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@android:color/transparent"-->
+        <!--android:textColor="@android:color/white"-->
+        <!--android:text="签到"-->
+        <!--android:layout_weight="1"-->
+        <!--android:id="@+id/btnCheckIn"/>-->
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="50dp"
+        android:background="@color/linebacColor" />
+
+    <lib.homhomlib.design.SlidingLayout
+        android:id="@+id/RPslidingLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="51dp"
+        fab:background_view="@layout/view_slidinglayout_pull_to_refresh"
+        fab:sliding_mode="both">
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/rp_bg"
+            android:descendantFocusability="blocksDescendants"
+            android:scrollbars="none">
+
+        </ListView>
+
+
+    </lib.homhomlib.design.SlidingLayout>
+
+    <com.getbase.floatingactionbutton.FloatingActionsMenu
+        android:id="@+id/btn_plus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="5dp"
+        fab:fab_labelStyle="@style/menu_labels_style"
+        fab:fab_addButtonColorNormal="@color/pink"
+        fab:fab_addButtonColorPressed="@color/pink_pressed"
+        fab:fab_addButtonSize="normal">
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btn_shake"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            fab:fab_colorNormal="@color/pink"
+            fab:fab_colorPressed="@color/pink_pressed"
+            android:layout_margin="0dp"
+            fab:fab_icon="@mipmap/shake2"
+            fab:fab_title="摇一摇"/>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btn_signin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/sign"
+            fab:fab_colorNormal="@color/pink"
+            fab:fab_colorPressed="@color/pink_pressed"
+            fab:fab_icon="@mipmap/sign2"
+            fab:fab_title="签到" />
+    </com.getbase.floatingactionbutton.FloatingActionsMenu>
+
+</FrameLayout>
